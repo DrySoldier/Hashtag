@@ -1,6 +1,8 @@
 1.) cd into this file with your terminal
 
-2.) Type in the command 'nom install'
+2.) Type in the command 'npm install'
+
+3.) cd into ios, type in the command 'pod install'
 
 3.) Type in the command 'react-native run-ios' or 'react-native run-android', depending on the simulator used
 
